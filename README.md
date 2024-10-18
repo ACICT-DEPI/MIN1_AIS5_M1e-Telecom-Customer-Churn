@@ -22,7 +22,7 @@ This project focuses on analyzing customer behavior in the telecom industry to p
 
 **4. Deployment**:
 - Save a model as .pkl file for using in depolyment.
-- Deploy model and run with Streamlit.
+- Deploy model and run with Streamlit app.
 
 ### Results
 - **Best Model in Supervised Learning**: XGBoost Classifier with an accuracy of 95% and ROC AUC of 99%.
