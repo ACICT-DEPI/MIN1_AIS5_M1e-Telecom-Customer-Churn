@@ -1,0 +1,19 @@
+To open Streamlit app for model depolyment:
+ 
+- You can now view your Streamlit app in your browser.
+
+  Local URL: http://localhost:8501
+  Network URL: http://192.168.1.4:8501
+ 
+OR
+
+- Navigate to the directory where your app.py file is located:
+
+cd path/to/your/directory
+
+Then use the python -m command to run Streamlit like this:
+
+python -m streamlit run app.py
+
+This will start the Streamlit app in your default web browser. 
+
