@@ -20,7 +20,7 @@ This project focuses on analyzing customer behavior in the telecom industry to p
 - Visualize the churn prediction results, customer clusters, and their characteristics using Python libraries such as Matplotlib and Seaborn. 
 - Present insights and recommendations in a structured format, emphasizing actionable business strategies.
 
-**4. Deployment***:
+**4. Deployment**:
 - Save a model as .pkl file for using in depolyment.
 - Deploy model and run with Streamlit.
 
